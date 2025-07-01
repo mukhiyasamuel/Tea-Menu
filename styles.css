@@ -1,0 +1,71 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #fdf6f0;
+  color: #3e2f1c;
+  padding: 20px;
+}
+/* *{border: 1px solid burlywood;} */
+h1, h2, p { text-align: center;}
+h1 
+{
+     font-size: 40px;
+     margin-top: 0;
+     margin-bottom: 5px
+}
+
+h2 { font-size: 30px; margin-top:9px; margin-bottom:5px;}
+section P { font-size: 18px;}
+h1, h2 {
+  font-family: 'Playfair Display', serif;
+  color: #2a1f14;
+}
+
+section {
+  border-bottom: 2px solid #c4a484;
+}
+
+.des { font-style: italic;}
+
+.menu {
+    width: 80%;
+    border:5px solid #c4a484;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.item p 
+{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.flavor, .tea, .pastry 
+{ 
+    width: 73%;
+    text-align: left;
+}
+
+.price 
+{ 
+    width: 24%;
+    text-align: right;
+}
+
+
+/* footer */
+footer { 
+    margin-top: 5px;
+    font-size: 14px;
+    margin-bottom: 0;
+}
+
+footer p {
+    margin-bottom: 0;
+    margin-top: 0;
+}
