@@ -5,3 +5,4 @@ min = 0
 
 console.log("Hello Samuel")
 console.log("The sum is: " + sum)
+console.log("hello, world!")
